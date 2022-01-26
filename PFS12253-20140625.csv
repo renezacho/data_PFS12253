@@ -1,0 +1,25 @@
+Account,Currency,Entry Date,Deposit Amount,Withdraw Amount,Cash Code,Note
+"PFS12253","USD","02/27/2015",571.12,0,Other,WT B/O R ZACHO PFS12253
+"PFS12253","USD","02/27/2015",0,-571.12,Other,REVERSAL OF WT B/O R ZACHO PFS12253 (DATE CORRECTION)
+"PFS12253","USD","03/27/2015",571.12,0,Other,WT B/O R ZACHO PFS12253
+"PFS12253","USD","07/01/2015",0,-50,Inactive fees,Inactivity Fee from 20150401 to 20150630
+"PFS12253","USD","07/08/2015",477,0,Wire Transfer Deposits,WT B/O RENE PFS12253
+"PFS12253","USD","07/20/2015",0,-5.1,Overnight Short fees,Overnight Short Fee for AA
+"PFS12253","USD","07/22/2015",0,-4.995,Overnight Short fees,Overnight Short Fee for AA
+"PFS12253","USD","01/04/2016",0,-50,Inactive fees,Inactivity Fee from 20151001 to 20151231
+"PFS12253","USD","03/03/2016",482,0,Wire Transfer Deposits,GLOBAL RENE ZACHO
+"PFS12253","USD","04/01/2016",0,-50,Inactive fees,Inactivity Fee from 20160101 to 20160331
+"PFS12253","USD","07/01/2016",0,-50,Inactive fees,Inactivity Fee from 20160401 to 20160630
+"PFS12253","USD","09/01/2016",0,-15,Monthly Platform fees,Monthly Platform fee - August
+"PFS12253","USD","10/03/2016",0,-15,Monthly Platform fees,Monthly Platform fee - September
+"PFS12253","USD","10/03/2016",0,-50,Inactive fees,Inactivity Fee from 20160701 to 20160930
+"PFS12253","USD","11/01/2016",0,-15,Monthly Platform fees,Monthly Platform fee - October
+"PFS12253","USD","12/01/2016",0,-15,Monthly Platform fees,Monthly Platform fee - November
+"PFS12253","USD","01/02/2017",0,-15,Monthly Platform fees,Monthly Platform fee - December
+"PFS12253","USD","02/01/2017",0,-15,Monthly Platform fees,Monthly Platform fee - January
+"PFS12253","USD","03/01/2017",0,-15,Monthly Platform fees,Monthly Platform fee - Febuary
+"PFS12253","USD","03/14/2017",0,-15,Monthly Platform fees,Monthly Platform Fee- March
+"PFS12253","USD","03/15/2017",0,-40,Wire Transfer Withdrawal fees,cc fee
+"PFS12253","USD","03/15/2017",0,-415.64,Wire Transfer Withdrawals,Withdrawal: Rene Zacho
+"PFS12253","USD","04/03/2017",0,-0.000273998599823244,Inactive fees,Inactivity Fee from 20170101 to 20170331
+
